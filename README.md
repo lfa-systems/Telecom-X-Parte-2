@@ -195,6 +195,6 @@ Se você tiver dúvidas, sugestões ou quiser discutir o projeto, sinta-se à vo
 
 ## 📄 Licença
 
-Este projeto está licenciado sob a licença **MIT License** - veja o arquivo [LICENSE](https://www.google.com/search?q=LICENSE) para detalhes.
+Este projeto está licenciado sob a licença **MIT License** - veja o arquivo [LICENSE](https://www.google.com/search?q=MIT+License&oq=MIT+License) para detalhes.
 
 -----
