@@ -185,7 +185,7 @@ Em resumo, a coluna `Churn` é necessária para ensinar o modelo, mas não é us
 
 Se você tiver dúvidas, sugestões ou quiser discutir o projeto, sinta-se à vontade para entrar em contato:
 
-  * **Nome:** Luciano Azevedo
+  * **Nome:** Luciano Azevedo (Especialista Data Science)
   * **Email:** lucianocomputador@gmail.com
   * **LinkedIn:** [Meu Perfil LinkedIn](https://www.linkedin.com/in/luciano-devops/)
   * **GitHub:** [Meu Perfil GitHub](https://github.com/lfa-systems)
